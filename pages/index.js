@@ -9,7 +9,7 @@ const HomePage = () => {
       <header className="text-center mb-10">
         <h1 className="text-4xl font-bold text-pink-600 mb-2">Welcome to After the Fairytale</h1>
         <p className="text-lg text-gray-800">
-          Because real life isn’t always happily ever after... sometimes it's ghosting, gaslighting, or a goldfish who thought he was Poseidon.
+          Because real life isn\'t always happily ever after... sometimes it\'s ghosting, gaslighting, or a goldfish who thought he was Poseidon.
         </p>
       </header>
 
@@ -27,19 +27,19 @@ const HomePage = () => {
         <h2 className="text-2xl font-semibold mb-4 text-pink-500">Recent Reviews</h2>
 
         <div className="bg-white border border-pink-100 rounded-lg p-4 mb-6 shadow">
-          <p className="font-bold">Ex's Name: The Love Bomber</p>
+          <p className="font-bold">Ex\'s Name: The Love Bomber</p>
           <p className="text-sm">Rating: ★★☆☆☆</p>
           <p className="mt-2 text-gray-800">Started strong, ended in confusion. He said forever... and meant until brunch.</p>
         </div>
 
         <div className="bg-white border border-pink-100 rounded-lg p-4 mb-6 shadow">
-          <p className="font-bold">Ex's Name: Miss Red Flag Parade</p>
+          <p className="font-bold">Ex\'s Name: Miss Red Flag Parade</p>
           <p className="text-sm">Rating: ★☆☆☆☆</p>
           <p className="mt-2 text-gray-800">Said she was over her ex. Reader, she was not.</p>
         </div>
 
         <div className="bg-white border border-pink-100 rounded-lg p-4 mb-6 shadow">
-          <p className="font-bold">Ex's Name: Captain Ghost</p>
+          <p className="font-bold">Ex\'s Name: Captain Ghost</p>
           <p className="text-sm">Rating: ★☆☆☆☆</p>
           <p className="mt-2 text-gray-800">He vanished so fast I thought Thanos snapped him.</p>
         </div>
