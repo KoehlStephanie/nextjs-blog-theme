@@ -4,7 +4,7 @@ import React from 'react';
 
 const SubmitReview = () => {
   return (
-    <div className="max-w-xl mx-auto p-6 text-gray-900 bg-cream text-black">
+    <div className="max-w-xl mx-auto p-6 text-gray-900 bg-orange-50 text-black">
       <h1 className="text-3xl font-bold mb-6 text-center text-pink-600">Submit a Review</h1>
 
       <form name="ex-review" method="POST" data-netlify="true" className="space-y-4">
